@@ -1,0 +1,6 @@
+.idea
+**/__pycache__
+**/migrations/*.py
+!**/migrations/__init__.py
+*.sqlite3*
+Pipfile.lock
